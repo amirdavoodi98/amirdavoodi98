@@ -1,4 +1,3 @@
-### Hi there 👋
 ## About Me
 
 A software engineer with experience in various technologies. I am skilled in developing server-side
