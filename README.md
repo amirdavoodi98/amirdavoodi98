@@ -23,7 +23,7 @@ Currently, I am deeply immersed in real estate projects that focus on cutting-ed
 
 You can reach me at:
 - Email: amirm.davoodi103@gmail.com
-- LinkedIn: [@example](linkedin.com/in/amirmohamd-davoodi/)
+- LinkedIn: [@my linkedin](linkedin.com/in/amirmohamd-davoodi/)
 
 <!--
 **amirdavoodi98/amirdavoodi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
