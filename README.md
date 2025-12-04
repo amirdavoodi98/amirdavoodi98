@@ -2,7 +2,7 @@
 
 ## Backend Engineer (Python | Go | Microservices)
 
-📧 amirmdavoodi103@gmail.com · 🔗 linkedin.com/in/amirmohamd-davoodi
+📧 amirmdavoodi103@gmail.com · 🔗 [linkedin.com/in/amirmohamd-davoodi](https://www.linkedin.com/in/amirmohamad-davoodi-827b29157/)
 📍 Iran · 📞 +98 939 865 6067
 
 ---
