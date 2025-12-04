@@ -1,41 +1,81 @@
-## About Me
+# AMIR MOHAMAD DAVOUDI
 
-A software engineer with experience in various technologies. I am skilled in developing server-side
-systems, optimizing system performance, and system design.
-Currently, I am deeply immersed in real estate projects that focus on cutting-edge concepts like tokenization and advanced recommendation systems. By blending my technical acumen with a passion for innovation, I strive to redefine the real estate landscape through technological advancements that enhance accessibility, transparency, and user experience.
+## Backend Engineer (Python | Go | Microservices)
+
+📧 amirmdavoodi103@gmail.com · 🔗 [linkedin.com/in/amirmohamd-davoodi](https://www.linkedin.com/in/amirmohamad-davoodi-827b29157/)
+📍 Iran · 📞 +98 939 865 6067
+
+---
+
+## Summary
+
+Backend Engineer with **4+ years of experience** building high-performance microservices in FinTech and PropTech. Specialized in **Python, Django, Go, async systems, and scalable architecture**. Led backend teams, optimized real-time systems, **reduced latency by 35%**, and delivered B2B-ready microservices. Experienced with AI-assisted development (Cursor, Copilot, Windsurf) and integrating ChatGPT-based agents.
+
+---
+
+## Core Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Go, C# (.NET Core), Persian (Native), English (Professional Working Proficiency) |
+| **Frameworks** | Django, Celery, OpenAPI |
+| **Databases** | PostgreSQL, MongoDB, InfluxDB |
+| **Queues** | Kafka, RabbitMQ |
+| **Caching** | Redis, Memcached |
+| **Architecture** | Microservices, gRPC, Async, TDD, Clean Architecture, Elasticsearch |
+| **DevOps** | Docker |
+
+---
+
+## Experience
+
+### Co-Founder & Senior Backend Engineer
+**Metriland & Tokenision · Mar 2023 – Present**
+
+* Scaled microservices architecture $\rightarrow$ **+40% system scalability**.
+* Built Wallet, Market, ITO, OTC, PAY core FinTech services.
+* Automated offline jobs using Celery $\rightarrow$ **20+ hrs saved/month**.
+* Developed P2P platform with referral + notification systems $\rightarrow$ **25% engagement increase**.
+* Built market-maker bots improving liquidity & spread.
+
+### Co-Founder & Senior Backend Developer
+**Propision (AI Real Estate Platform) · Jun 2023 – Present**
+
+* Co-built ML-powered real estate valuation API.
+* Scaled backend to **3$\times$ traffic** using microservices.
+* Reduced response latency by **35%** via async programming & query optimization.
+* Integrated ML models into production with real-time endpoints.
+* Migrated monolith $\rightarrow$ modular microservices for B2B clients.
+
+### Backend Developer
+**Daftarfile · Jul 2024 – Present**
+
+* Built APIs for property listings, authentication, and search filters.
+* Created Divar-style file flow management system for real-estate agents.
+* Optimized heavy listing queries under high load.
+
+### Backend Developer
+**Rayan Adyneh (Crypto Exchange) · Jul 2022 – Mar 2023**
+
+* Refactored trading backend $\rightarrow$ improved transaction throughput & uptime.
+* Built ROTANA, a bank-integrated fiat-to-token purchase system.
+
+### Freelance Backend Engineer
+**Sangyab · Sep 2021 – Mar 2022**
+
+* Designed vendor onboarding, inventory, and analytics modules.
+* Delivered modular, scalable backend + admin tools.
+
+---
 
 ## Projects
 
-- **[SangYab](https://www.sangyab.com/)**
-- **[Propision](https://propision.com/)**
-- **[Tokenision](https://tokenision.com/)**
-- **[MetriLand](https://metriland.com/)**
+* **AI Financial Forecasting (LSTM):** Achieved **70% backtest accuracy**, automating profit prediction using Python, TensorFlow, and historical market data.
+* **ISC Conference Platform:** Developed user authentication, profile editing, and admin dashboard for a national academic event.
 
-## Skills
+---
 
-- Python
-- Django
-- C#
-- Block-Chain
-- Solidity
+## Education
 
-## Contact
-
-You can reach me at:
-- Email: amirm.davoodi103@gmail.com
-- LinkedIn: [@my linkedin](linkedin.com/in/amirmohamd-davoodi/)
-
-<!--
-**amirdavoodi98/amirdavoodi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**B.Sc. – Computer Engineering**
+University of Isfahan · Graduated **2022**
