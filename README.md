@@ -79,5 +79,6 @@ Backend Engineer with **5+ years of experience** building high-performance micro
 
 **B.Sc. – Computer Engineering**
 University of Isfahan · Graduated **2022**
+
 **High School Diploma – Mathematics & Physics**
 Sampad (National Organization for Development of Exceptional Talents) · Graduated **2018**
