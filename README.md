@@ -9,7 +9,7 @@
 
 ## Summary
 
-Backend Engineer with **4+ years of experience** building high-performance microservices in FinTech and PropTech. Specialized in **Python, Django, Go, async systems, and scalable architecture**. Led backend teams, optimized real-time systems, **reduced latency by 35%**, and delivered B2B-ready microservices. Experienced with AI-assisted development (Cursor, Copilot, Windsurf) and integrating ChatGPT-based agents.
+Backend Engineer with **5+ years of experience** building high-performance microservices in FinTech and PropTech. Specialized in **Python, Django, Go, async systems, and scalable architecture**. Led backend teams, optimized real-time systems, **reduced latency by 35%**, and delivered B2B-ready microservices. Experienced with AI-assisted development (Cursor, Copilot, Windsurf) and integrating ChatGPT-based agents.
 
 ---
 
