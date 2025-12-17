@@ -1,6 +1,6 @@
 # AMIR MOHAMAD DAVOUDI
 
-## Senior Backend Engineer (Python | Go | Microservices)
+## Senior Backend Engineer
 
 amirmdavoodi103@gmail.com | [linkedin.com/in/amirmohamd-davoodi](https://www.linkedin.com/in/amirmohamad-davoodi-827b29157/)
 Iran (Remote/Relocation Ready) | +98 939 865 6067
